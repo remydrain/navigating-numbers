@@ -1,16 +1,22 @@
 # Changelog
 
-## 2023-04-24 12:56
-- Added cleaned Content as new sheet to Reactions
+## 2023-04-24 13:17
+- Imported cleaned Content to Reactions as new sheet
+- Imported ReactionTypes to Reactions as new sheet
+- Renamed workbook to Cleaned Data
 
-## 2023-04-24 11:04
-- Removed rows with empty "Type" values from Reactions
-- Removed User ID columns from Reactions and Content sheets
-    - Content ID will be common connector, and User ID is not needed for this analysis
+## 2023-04-24 13:10
+### Content cleaning done:
+- Deleted User ID column
+- Deleted URL column
+- Removed quotation marks from Category fields
+- Changed all Category values to lowercase
 
-## 2023-04-24 10:51
-- Deleted URL column from Content sheet
-- Removed quotation marks from Categories
+## 2023-04-24 13:08
+### Reactions cleaning done:
+- Deleted User ID column
+- Deleted rows with missing Type values
+- Renamed "Type" to "Reaction Type"
 
 ## 2023-04-24 10:15
 - Imported datasets into Google Sheets
