@@ -1,7 +1,10 @@
 # Changelog
 
+## 2023-04-24 12:56
+- Added cleaned Content as new sheet to Reactions
+
 ## 2023-04-24 11:04
-- Removed rows with empty values from Reactions
+- Removed rows with empty "Type" values from Reactions
 - Removed User ID columns from Reactions and Content sheets
     - Content ID will be common connector, and User ID is not needed for this analysis
 
