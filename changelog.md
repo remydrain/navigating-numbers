@@ -1,5 +1,8 @@
 # Changelog
 
+## 2023-04-24 16:27
+- Fixed vlookup formula and aggregated data into one sheet for analysis
+
 ## 2023-04-24 15:59
 - Used VLOOKUP to add Content Type and Category to Reactions sheet
 - Noticed some Content IDs on the Reactions sheet that are not on the Content sheet
