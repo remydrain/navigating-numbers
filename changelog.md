@@ -1,5 +1,8 @@
 # Changelog
 
+## 2023-04-24 17:23
+- Used pivot table to aggregate scores, then sort to find the top 5
+
 ## 2023-04-24 16:41
 - Format Score column as numbers
 - List categories using UNIQUE()
