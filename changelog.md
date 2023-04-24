@@ -1,5 +1,9 @@
 # Changelog
 
+## 2023-04-24 15:59
+- Used VLOOKUP to add Content Type and Category to Reactions sheet
+- Noticed some Content IDs on the Reactions sheet that are not on the Content sheet
+
 ## 2023-04-24 13:17
 - Imported cleaned Content to Reactions as new sheet
 - Imported ReactionTypes to Reactions as new sheet
